@@ -19,3 +19,7 @@ env/
 *.h5
 *.zip
 *.json
+
+*.pkl
+venv/
+.venv/
