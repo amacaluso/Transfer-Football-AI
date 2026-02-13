@@ -1,0 +1,10 @@
+data/
+datasets/
+*.csv
+*.xlsx
+*.npy
+__pycache__/
+*.pyc
+*.h5
+*.json
+*.zip
