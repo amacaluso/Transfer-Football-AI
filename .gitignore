@@ -8,3 +8,14 @@ __pycache__/
 *.h5
 *.json
 *.zip
+
+# ignore virtual environments
+venv/
+.venv/
+env/
+
+# ignore data/model artifacts
+*.pkl
+*.h5
+*.zip
+*.json
